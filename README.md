@@ -5,8 +5,8 @@ i was a noob coder before this, taught myself python like 5-7 years ago, never d
 files are prefixed in chronological-ish order - as you can see things get less scuffed as you learn🤣a lot of it is your environment/workflow honestly so the headache of setting that shit up real nice is worth it
 
 to quickly see before/after:
-  before: 03_v000001_test_opener_response.md
-  after: 12_vCURRENT.md
+  -before: 03_v000001_test_opener_response.md
+  -after: 12_vCURRENT.md
 
 at some point i read this article and watched the videos in it and it was clear that context engineering is like the big boy version of vibe coding: https://inferencebysequoia.substack.com/p/vibe-coding-needs-context-engineering
 
